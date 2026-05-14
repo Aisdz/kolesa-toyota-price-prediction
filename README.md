@@ -133,7 +133,7 @@ Opens at `http://localhost:8501`
 ├── kolesa_scraped.ipynb   # Scraping + cleaning + EDA
 ├── kolesa_ml.ipynb        # Feature engineering + model training
 ├── kolesa_app.py          # Streamlit web app
-├── toyota_data.csv        # Scraped dataset
+├── toyota_data.csv        # Scraped dataset(13,292 rows)
 └── README.md
 ```
 
