@@ -21,6 +21,7 @@ End-to-end pipeline: scraping Toyota listings from [Kolesa.kz](https://kolesa.kz
 > Best model: **XGBoost** - mean prediction error ~1.3M KZT ($2,700) on a 20% validation set.
 
 ### Feature importance (XGBoost)
+<img width="731" height="453" alt="Screenshot 2026-05-14 at 14 56 42" src="https://github.com/user-attachments/assets/48b7b637-6b4b-4c53-a1a2-ba3152aea2bd" />
 
 | Rank | Feature | Note |
 |---|---|---|
